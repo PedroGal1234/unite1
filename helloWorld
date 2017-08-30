@@ -1,1 +1,6 @@
+#Pedro Gallino
+#Wedsday August 30, 2017
+#Our First Program
 
+print("Hello, world.")
+print("Programming is fun")
