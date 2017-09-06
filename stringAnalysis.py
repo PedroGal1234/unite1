@@ -12,4 +12,5 @@ print('Your Sentence has',spaces+1,'words and',characters,'characters and',chara
 sentence.lower()
 letter = input('Enter a Character to search for: ')
 print('Your sentence has', sentence.count(letter),'of the character: ',letter)
-word = input
+word = input('Enter a word to search for: ')
+print('Your sentence has', sentence.count(word),'of the word')
