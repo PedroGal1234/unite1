@@ -8,3 +8,6 @@ c = float(input('Enter Side C: '))
 
 short = min(a,b,c)
 long = max(a,b,c)
+medium = (a+b+c)-(short+long)
+
+print((short+medium)>long)
